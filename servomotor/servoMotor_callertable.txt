@@ -1,0 +1,4 @@
+main
+	Rotation0
+	Rotation90
+	Rotation180

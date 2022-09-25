@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\rabiu\OneDrive\Desktop\microcontroller4-2\motor\motor.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\rabiu\OneDrive\Desktop\microcontroller4-2\motor\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "motor.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	motor.c
+diagnostics: 91	123	Compiled Successfully	motor.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 0	1144	Used RAM (bytes): 6 (2%)  Free RAM (bytes): 346 (98%)	Used RAM (bytes): 6 (2%)  Free RAM (bytes): 346 (98%)
+hint: 0	1144	Used ROM (program words): 155 (2%)  Free ROM (program words): 8037 (98%)	Used ROM (program words): 155 (2%)  Free ROM (program words): 8037 (98%)
+diagnostics: 0	125	Project Linked Successfully	motor.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'motor.mcppi' completed: 234 ms	 
+diagnostics: 0	103	Finished successfully: 23 Sep 2022, 08:59:47	motor.mcppi

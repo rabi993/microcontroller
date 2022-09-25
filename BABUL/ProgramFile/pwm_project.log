@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"D:\4-2\Interfacing & Microcontroller\LapWork\MicroController\ProgramFile\pwm_project.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"D:\4-2\Interfacing & Microcontroller\LapWork\MicroController\ProgramFile\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "pwm_project.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_PWM_c21.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	pwm_project.c
+diagnostics: 46	123	Compiled Successfully	pwm_project.c
+diagnostics: 0	127	All files Compiled in 110 ms	 
+hint: 0	1144	Used RAM (bytes): 8 (2%)  Free RAM (bytes): 344 (98%)	Used RAM (bytes): 8 (2%)  Free RAM (bytes): 344 (98%)
+hint: 0	1144	Used ROM (program words): 216 (3%)  Free ROM (program words): 7976 (97%)	Used ROM (program words): 216 (3%)  Free ROM (program words): 7976 (97%)
+diagnostics: 0	125	Project Linked Successfully	pwm_project.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'pwm_project.mcppi' completed: 297 ms	 
+diagnostics: 0	103	Finished successfully: 23 Aug 2022, 23:53:14	pwm_project.mcppi
